@@ -13,9 +13,8 @@ TP2DPBO2526C1
 │   │   └── input.txt
 │   │
 │   └── dokumentasi/
-│       ├── cpp1.png
-│       ├── cpp2.png
-│       └── cpp3.png
+│       ├── add.jpeg
+│       └── display.jpeg
 │
 ├── Java/
 │   ├── program/
@@ -25,10 +24,10 @@ TP2DPBO2526C1
 │   │   ├── Vinyl.java
 │   │   └── input.txt
 |   |
-│   └── Dokumentasi/
-│       ├── java1.png
-│       ├── java2.png
-│       └── java3.png
+│   └── dokumentasi/
+│       ├── add.jpeg
+│       └── display.jpeg
+│
 │
 ├── Python/
 │   ├── program/
@@ -38,10 +37,9 @@ TP2DPBO2526C1
 │   │   ├── vinyl.py
 │   │   └── input.txt
 |   |
-│   └── Dokumentasi/
-│       ├── py1.png
-│       ├── py2.png
-│       └── py3.png
+│   └── dokumentasi/
+│       ├── add.jpeg
+│       └── display.jpeg
 │
 ├── PHP/
 │   ├── program/
@@ -51,11 +49,10 @@ TP2DPBO2526C1
 │   │   ├── Vinyl.cpp
 │   │   └── input.txt
 │   │
-│   └── Dokumentasi/
-│       ├── php1.png
-│       ├── php2.png
-│       ├── php3.png
-│       └── php4.png
+│   └── dokumentasi/
+│       ├── add.jpeg
+|       ├── panduan.jpeg
+│       └── display.jpeg
 │
 ├── Diagram.png
 └── README.md
@@ -158,23 +155,33 @@ Program merender HTML yang terdiri dari dua komponen utama:
 ## Dokumentasi C++
 ### ADD
 <img width="530" height="473" alt="add" src="https://github.com/user-attachments/assets/9cc939b5-b03c-408c-bb1f-b74e24a69bea" />
+
 ### Display
 <img width="1461" height="489" alt="display" src="https://github.com/user-attachments/assets/b546c96d-f216-44e2-93f6-05466bea2790" />
+
 ## Dokumentasi Java
+
 ### ADD
 <img width="627" height="375" alt="add" src="https://github.com/user-attachments/assets/ef909ad8-87db-48a4-a34b-18b8432bb208" />
+
 ### Display
 <img width="1219" height="227" alt="display" src="https://github.com/user-attachments/assets/6b68b9a7-c037-4bb0-8773-46c0c6a2d710" />
 
 ## Dokumentasi Python
+
 ### ADD
 <img width="543" height="500" alt="add" src="https://github.com/user-attachments/assets/bb02e933-8f1e-414d-831f-a7c051d6536d" />
+
 ### Display
 <img width="1319" height="499" alt="display" src="https://github.com/user-attachments/assets/37039016-b7e9-4df5-b818-95e932a0170e" />
+
 ## Dokumentasi PHP
+    
 ### Panduan
 <img width="1462" height="370" alt="panduan" src="https://github.com/user-attachments/assets/12e5c104-5ede-4ee4-bb92-75dbba7d3eac" />
+
 ### Display
 <img width="1920" height="1017" alt="display" src="https://github.com/user-attachments/assets/9a23b62c-4f77-46fb-ba24-4773d09bedec" />
+
 ### ADD
 <img width="1920" height="1023" alt="add" src="https://github.com/user-attachments/assets/41c8f7ae-3250-4312-bc61-c0e086e0372d" />
