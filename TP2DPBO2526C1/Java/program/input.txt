@@ -1,0 +1,23 @@
+TEST CASE BENAR
+
+Test 1
+ID : V06
+Nama Album : Cracker_Island
+Harga : 580000
+Artis : Gorillaz
+Genre : Electronic
+Tahun Rilis : 2023
+Ukuran : 12_inch
+Warna Plat : Pink
+Kondisi : Mint
+-> muncul pesan: Data vinyl berhasil ditambahkan!
+
+
+TEST CASE SALAH
+
+Test 1
+06 (ID)
+V01 (ID)
+Dangdut (Genre)
+lima_ratus (Harga)
+1850 (Tahun Rilis)
